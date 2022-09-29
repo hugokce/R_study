@@ -1,0 +1,6 @@
+Öğrenci Matematik Fizik
+A	80	50
+B	90	50
+C	60	30
+D	40	30
+E	40	40
